@@ -41,5 +41,10 @@
               display:none;
           }
       </style>
+
+      <script>
+        $('.toast').toast({})
+      </script>
+
   </body>
 </html>

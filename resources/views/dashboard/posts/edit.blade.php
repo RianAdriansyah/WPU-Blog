@@ -42,6 +42,7 @@
                 @endif
                 @endforeach
                 </select>
+        </div>
         <div class="mb-3">
             <label for="formFile" class="form-label">Post Image</label>
             <input type="hidden" name="oldImage" value="{{ $post->image }}">
